@@ -7,5 +7,10 @@
 
 ## The present
 <http://hunkim.github.io/ml/>
+> 이 강의의 경우 Tensorflow를 Docker Container로 다운받아 진행하며,
+> Jupyter Notebook을 통해 실습을 할 예정이다  
 
 - Lecture01 머신러닝의 개념과 용어
+
+## Development Environment
+> - Language : Python
