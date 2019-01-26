@@ -1,9 +1,11 @@
 # MachineLearning Study
 ---
-¾Æ·¡ÀÇ Á¤¸®µÈ ºê·±Ä¡ ±Û ¹ÙÅÁÀ¸·Î ÁøÇà
+ì•„ë˜ì˜ ì •ë¦¬ëœ ë¸ŒëŸ°ì¹˜ ê¸€ ë°”íƒ•ìœ¼ë¡œ ì§„í–‰
+
 <https://brunch.co.kr/@kmbmjn95/30>
 ---
 
 ## The present
 <http://hunkim.github.io/ml/>
-- Lecture01 ¸Ó½Å·¯´×ÀÇ °³³ä°ú ¿ë¾î  
+
+- Lecture01 ë¨¸ì‹ ëŸ¬ë‹ì˜ ê°œë…ê³¼ ìš©ì–´
