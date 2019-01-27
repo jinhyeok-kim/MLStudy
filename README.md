@@ -12,6 +12,7 @@
 
 - Lecture01 머신러닝의 개념과 용어
 - Lecture02 Linear Regression  
+- Lecture03 Linear Regression의 최소화 알고리즘의 원리 설명   
 
 ## Development Environment
 > - Language : Python
