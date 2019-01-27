@@ -11,6 +11,7 @@
 > Jupyter Notebook을 통해 실습을 할 예정이다  
 
 - Lecture01 머신러닝의 개념과 용어
+- Lecture02 Linear Regression  
 
 ## Development Environment
 > - Language : Python
