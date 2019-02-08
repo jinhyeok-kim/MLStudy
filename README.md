@@ -25,5 +25,10 @@
 - Lecture06-2 Softmax classifier의 cost 함수  
 	- Lab06-1 TensorFlow로 Softmax Classification 구현
 	- Lab06-2 TensorFlow로 Fancy Softmax Classification 구현
+- Lecture07  
+- Lecture08  
+- Lecture09  
+  
+  
 ## Development Environment
 > - Language : Python
